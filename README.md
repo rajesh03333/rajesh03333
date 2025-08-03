@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Rajesh  
+# 💫 Hi 👋, I'm Gajula Rajesh  
 **A passionate Full Stack Developer | MERN Enthusiast | AI Integrator | DSA Enthusiast**
 
 📩 **Email Me** 👉 ✉️ **rajeshgajula1803@gmail.com** for Collaboration, Projects, or Anything Else 😊😊
