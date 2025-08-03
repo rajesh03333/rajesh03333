@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Rajesh  
+**A passionate Full Stack Developer | MERN Enthusiast | AI Integrator | DSA Enthusiast**
+
+📩 **Email Me** 👉 ✉️ **rajeshgajula1803@gmail.com** for Collaboration, Projects, or Anything Else 😊😊
+
+- 🔭 **I’m currently working on:** SmartStudy – An AI-Powered Study Planner  
+- 🌱 **I’m currently learning:** Generative AI, Machine Learning, and Artificial Intelligence  
+- 👨‍💻 **I practice DSA regularly:** Solving problems on LeetCode, CodeChef, and SmartInterviews  
+- 👯 **I’m looking to collaborate on:** EdTech platforms, MERN stack apps, AI-powered tools  
+- 🤔 **I’m looking for help with:** High-performance backend systems and ML model integration  
+- 💬 **Ask me about:** DSA, React, Node.js, MongoDB, Tailwind, OpenAI API, Java  
+- 📫 **How to reach me:** **rajeshgajula1803@gmail.com**  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I debug faster with coffee ☕ and music 🎧  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshgajula1803@gmail.com) 
