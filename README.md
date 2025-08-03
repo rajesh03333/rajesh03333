@@ -3,7 +3,7 @@
 
 📩 **Email Me** 👉 ✉️ **rajeshgajula1803@gmail.com** for Collaboration, Projects, or Anything Else 😊😊
 
-- 🔭 **I’m currently working on:** SmartStudy – An AI-Powered Study Planner  
+- 🔭 **I’m currently working on:** Gen AI Career Path Recommender
 - 🌱 **I’m currently learning:** Generative AI, Machine Learning, and Artificial Intelligence  
 - 👨‍💻 **I practice DSA regularly:** Solving problems on LeetCode, CodeChef, and SmartInterviews  
 - 👯 **I’m looking to collaborate on:** EdTech platforms, MERN stack apps, AI-powered tools  
