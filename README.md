@@ -11,7 +11,6 @@
 - 💬 **Ask me about:** DSA, React, Node.js, MongoDB, Tailwind, OpenAI API, Java  
 - 📫 **How to reach me:** **rajeshgajula1803@gmail.com**  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** 90% logic, 10% semicolon errors  
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshgajula1803@gmail.com)
